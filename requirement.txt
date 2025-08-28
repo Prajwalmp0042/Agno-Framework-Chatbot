@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+faiss-cpu
+pydantic==1.10.13
+langchain==0.1.16
+together==0.2.10
+pydantic-settings==0.1.1
+sentence-transformers
